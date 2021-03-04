@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Browser Support"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -9,8 +9,8 @@ images: []
 menu:
   docs:
     parent: "prologue"
-weight: 100
+weight: 110
 toc: true
 ---
 
-## Get started
+## Supported Browsers
