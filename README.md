@@ -1,4 +1,4 @@
 # catertot.github.io
- Test | Promega Design System
+Promega Design System
 
- Party people clap your hands
+Party people clap your hands
