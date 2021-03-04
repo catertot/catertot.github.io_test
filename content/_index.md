@@ -1,8 +1,7 @@
 ---
-title : "Promega Design System"
+title : "Nebula"
 description: "Promega Design System [description]"
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+lead: "Promega's digital design system"
 draft: false
 images: []
 ---
