@@ -24,9 +24,10 @@ toc: true
 #### Live Example
 {{< codepen id="fa4425d05fb8cf612144291a5d598a6b" >}}
 
-### Secondary
+### Outline
 
-[Info here]
+- Used for supporting or non-primary page actions.
+- Uses sol border and transparent background.
 
 [example here]
 

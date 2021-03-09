@@ -13,4 +13,4 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## Get Started
